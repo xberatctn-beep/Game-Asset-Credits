@@ -22,9 +22,9 @@ The following assets are licensed under [Creative Commons Attribution 4.0 Intern
 | [LAZ-699 Soviet Bus](https://skfb.ly/oIYIE) | spacelynxcanfly | Textures modified from the original |
 | [Murphy '97 Cruiser - Low Poly model](https://skfb.ly/pDBnI) | Daniel Zhabotinsky | None reported |
 | [knife](https://skfb.ly/ooJTK) | hectopod | None reported |
-| [6TWELVE] (https://skfb.ly/ow6pS) | Elbolillo | Textures modified from the original |
-| [DINER] (https://skfb.ly/owVzE) | Elbolillo | Textures modified from the original |
-| [Bed] (https://skfb.ly/osnHI) AtTheSpeedOf | None reported |
+| [6twelve] (https://skfb.ly/ow6pS) | Elbolillo | Textures modified from the original |
+| [Diner] (https://skfb.ly/owVzE) | Elbolillo | Textures modified from the original |
+| [Bed] (https://skfb.ly/osnHI) | AtTheSpeedOf | None reported |
 
 Each asset title links to its original source page. The CC BY 4.0 license requires attribution and indication of changes, where applicable.
 
